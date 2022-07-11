@@ -1,0 +1,99 @@
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\models\endeffector.mtl
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\models\endeffector.obj
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\models\platform.mtl
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\models\Platform.obj
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SP7.exe.config
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SP7.exe
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SP7.pdb
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\Cyotek.Drawing.BitmapFont.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.Wpf.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.Wpf.SharpDX.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.D3DCompiler.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct2D1.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct3D11.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct3D11.Effects.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct3D9.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.DirectInput.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.DXGI.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Mathematics.dll
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\Cyotek.Drawing.BitmapFont.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.pdb
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.Wpf.pdb
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.Wpf.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.Wpf.SharpDX.pdb
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\HelixToolkit.Wpf.SharpDX.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.D3DCompiler.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct2D1.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct3D11.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct3D11.Effects.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Direct3D9.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.DirectInput.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.DXGI.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\bin\Release\SharpDX.Mathematics.xml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7Manager.csproj.AssemblyReference.cache
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\MainWindow.g.cs
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\App.g.cs
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7_Content.g.cs
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7_MarkupCompile.cache
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7_MarkupCompile.lref
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\MainWindow.baml
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7.g.resources
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7.Properties.Resources.resources
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7Manager.csproj.GenerateResource.cache
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7Manager.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7.exe
+C:\OneDrive\OneDrive - unige.it\SP7\SP7Control - sources\TrajGenerator\obj\Release\SP7.pdb
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\models\endeffector.mtl
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\models\endeffector.obj
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\models\platform.mtl
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\models\Platform.obj
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SP7.exe.config
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SP7.exe
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SP7.pdb
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\Cyotek.Drawing.BitmapFont.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.Wpf.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.Wpf.SharpDX.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.D3DCompiler.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct2D1.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct3D11.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct3D11.Effects.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct3D9.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.DirectInput.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.DXGI.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Mathematics.dll
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\Cyotek.Drawing.BitmapFont.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.pdb
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.Wpf.pdb
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.Wpf.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.Wpf.SharpDX.pdb
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\HelixToolkit.Wpf.SharpDX.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.D3DCompiler.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct2D1.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct3D11.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct3D11.Effects.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Direct3D9.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.DirectInput.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.DXGI.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\bin\Release\SharpDX.Mathematics.xml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7Manager.csproj.AssemblyReference.cache
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\MainWindow.g.cs
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\App.g.cs
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7_Content.g.cs
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7_MarkupCompile.cache
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7_MarkupCompile.lref
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\MainWindow.baml
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7.g.resources
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7.Properties.Resources.resources
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7Manager.csproj.GenerateResource.cache
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7Manager.csproj.CoreCompileInputs.cache
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7Manager.csproj.CopyComplete
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7.exe
+C:\OneDrive\OneDrive - unige.it\OthersWork\SofiaNystagmus\SP7\SP7Control_Yaw\TrajGenerator\obj\Release\SP7.pdb

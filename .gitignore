@@ -1,0 +1,9 @@
+SP7Controller_Yaw/.vs/*
+temp/*
+Documentation/*.pptx
+DataPostProcessing/000/*.mp4
+SP7Controller_Yaw/packages/
+SP7Controller_Yaw/TrajGenerator/obj/Debug/
+SP7Controller_Yaw/XpMotionPlatform/Debug/
+SP7Controller_Yaw/Sp7Control.VC.db
+DataPostProcessing/000/pupil_positions.csv
